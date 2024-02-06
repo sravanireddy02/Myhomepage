@@ -1,0 +1,66 @@
+body {
+	background-color:lightgrey;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-image: url('wallpaper.jpg');
+  background-attachment: fixed;
+  color: black;
+}
+
+h1 {
+  color: rgb(231, 79, 188);
+  margin-left: 20px;
+  text-align: center;
+}
+
+h3 {
+    color: rgb(231, 79, 188);
+  margin-left: 20px;
+}
+
+.name_pi{
+	text-align: right;
+}
+
+.name_pic{
+	text-align: center;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+a:hover {
+  background-color: rgb(163, 172, 125);
+}
+
+table {
+  border:none;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 40%;
+  color: rgb(53, 53, 49)
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+span{
+	color: rgb(102, 81, 211);
+	font-weight:bold;
+}
+
+ol{
+  list-style-type: numeric;
+}
+
+img{
+  width: 25%;
+  height: 20%;
+}
+body{
+  background-color: rgb(255, 255, 255);
+}
